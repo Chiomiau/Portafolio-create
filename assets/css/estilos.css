@@ -411,7 +411,7 @@
 
 /* CSS UNO */
 
-.body.project-1 {
+body.project-1 {
 
     * {
         margin: 0;
@@ -426,7 +426,7 @@
         font-family: 'Baloo 2', sans-serif;
     }
     
-    body {
+    body.project-1 {
         display: grid;
         grid-template-columns: 1fr;
         background-color: #f9f9f9;
